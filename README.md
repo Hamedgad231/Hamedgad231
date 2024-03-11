@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Hamedgad231
-- 👀 I’m interested in ERP exactly  Odoo
-- 🌱 I’m currently learning Python & Odoo
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Hamid Abdala
+- 👀 I’m interested in ERP exactly  Odoo 
+- 🌱 I’m currently Odoo Developer using python and JavaScript
+- 💞️ I’m looking to collaborate on Owl Framwork
 - 📫 How to reach me something That help me to be odoo developer
 
 <!---
