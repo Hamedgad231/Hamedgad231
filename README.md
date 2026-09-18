@@ -15,7 +15,7 @@ I build and customize **Odoo ERP** modules to help businesses streamline their o
 - Database performance tuning and query optimization (PostgreSQL)
 
 ### 💻 Tech Stack
-**ERP:** Odoo (v14–v17)
+**ERP:** Odoo (v11–v17)
 **Languages:** Python, JavaScript, XML, SQL
 **Database:** PostgreSQL
 **Frontend:** OWL Framework, QWeb, HTML/CSS
